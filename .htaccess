@@ -1,0 +1,4 @@
+# Sur un hébergement Apache (comme de nombreux hébergements mutualisés),
+# ouvrir accueil.html lorsque l'internaute consulte la racine du site.
+# accueil.html redirige ensuite vers index.html.
+DirectoryIndex accueil.html index.html
